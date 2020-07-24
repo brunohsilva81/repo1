@@ -1,0 +1,7 @@
+C:\Users\lopesdsb\source\repos\postocombusta\postocombusta\bin\Debug\postocombusta.exe.config
+C:\Users\lopesdsb\source\repos\postocombusta\postocombusta\bin\Debug\postocombusta.exe
+C:\Users\lopesdsb\source\repos\postocombusta\postocombusta\bin\Debug\postocombusta.pdb
+C:\Users\lopesdsb\source\repos\postocombusta\postocombusta\obj\Debug\postocombusta.csprojAssemblyReference.cache
+C:\Users\lopesdsb\source\repos\postocombusta\postocombusta\obj\Debug\postocombusta.csproj.CoreCompileInputs.cache
+C:\Users\lopesdsb\source\repos\postocombusta\postocombusta\obj\Debug\postocombusta.exe
+C:\Users\lopesdsb\source\repos\postocombusta\postocombusta\obj\Debug\postocombusta.pdb
